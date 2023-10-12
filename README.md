@@ -1,16 +1,22 @@
 # disney_plus
 
-A new Flutter project.
+bu projem de disney+'i ornek alarak yaptigim bir uygulamayi gosterdim.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/ebcengiz/disney_plus/assets/99767648/6b715dfc-877b-498c-8ffd-bf2a0c3a455f
+
+
+
+
+
+
+https://github.com/ebcengiz/disney_plus/assets/99767648/32a3486f-94da-41c3-9e43-37786e322bff
+
+
+
+
+
+
